@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+  /* styles for small screens like mobile */
+  form {
+    width: 100%;
+  }
+  input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
